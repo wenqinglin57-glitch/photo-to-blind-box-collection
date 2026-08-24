@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo to Blind Box Collection"
+  short_description: "Create six chibi figures, packaging, and collectible cards"
+  default_prompt: "Use $photo-to-blind-box-collection to start my six-figure collection; first ask whether this is a two-person or single-person project and request the required life photos."
